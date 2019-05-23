@@ -1,7 +1,7 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
+    "app_id": "com.Avin.Avin language",
+    "appname": "Avin language",
+    "desktopappname": "Avin language",
     "versioncode": 3610,
     "versionname": "3.6.1",
     "cache_expiration_time": 300000,
@@ -53,16 +53,16 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    "demo_sites": {
+   {
         "student": {
-            "url": "https:\/\/school.demo.moodle.net",
+            "url": "http://avincenter.com/",
             "username": "student",
-            "password": "moodle"
+            "password": "123"
         },
         "teacher": {
-            "url": "https:\/\/school.demo.moodle.net",
+            "url": "http://avincenter.com/",
             "username": "teacher",
-            "password": "moodle"
+            "password": "123"
         }
     },
     "customurlscheme": "moodlemobile",
