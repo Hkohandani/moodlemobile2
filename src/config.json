@@ -51,19 +51,9 @@
         "zh-cn": "简体中文",
         "zh-tw": "正體中文"
     },
-    "wsservice": "moodle_mobile_app",
+    "wsservice": "avincenter",
     "wsextservice": "local_mobile",
-   {
-        "student": {
-            "url": "http://avincenter.com/",
-            "username": "student",
-            "password": "123"
-        },
-        "teacher": {
-            "url": "http://avincenter.com/",
-            "username": "teacher",
-            "password": "123"
-        }
+ 
     },
     "customurlscheme": "moodlemobile",
     "siteurl": "",
